@@ -1,0 +1,3 @@
+C:/Users/djona/OneDrive/UFPEL/CC/1º S/22000294 - M5 - ALGORITMOS E PROGRAMAÇÃO/12-06-2024/Codes/LE4 - A789/AP--LE4-A789-E_1/cmake-build-debug/CMakeFiles/AP__LE4_A789_E_1.dir
+C:/Users/djona/OneDrive/UFPEL/CC/1º S/22000294 - M5 - ALGORITMOS E PROGRAMAÇÃO/12-06-2024/Codes/LE4 - A789/AP--LE4-A789-E_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/djona/OneDrive/UFPEL/CC/1º S/22000294 - M5 - ALGORITMOS E PROGRAMAÇÃO/12-06-2024/Codes/LE4 - A789/AP--LE4-A789-E_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

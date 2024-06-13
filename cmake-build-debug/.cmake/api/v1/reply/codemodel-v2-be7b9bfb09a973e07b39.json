@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AP__LE4_A789_E_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AP__LE4_A789_E_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AP__LE4_A789_E_1-Debug-6c1877234d986a20729c.json",
+					"name" : "AP__LE4_A789_E_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/djona/OneDrive/UFPEL/CC/1\u00ba S/22000294 - M5 - ALGORITMOS E PROGRAMA\u00c7\u00c3O/12-06-2024/Codes/LE4 - A789/AP--LE4-A789-E_1/cmake-build-debug",
+		"source" : "C:/Users/djona/OneDrive/UFPEL/CC/1\u00ba S/22000294 - M5 - ALGORITMOS E PROGRAMA\u00c7\u00c3O/12-06-2024/Codes/LE4 - A789/AP--LE4-A789-E_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
